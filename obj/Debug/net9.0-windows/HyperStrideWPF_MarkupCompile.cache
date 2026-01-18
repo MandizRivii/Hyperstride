@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\
+o:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\
 HyperStrideWPF
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-O:\HyperStride\HyperStrideWPF\App.xaml
+o:\HyperStride\HyperStrideWPF\App.xaml
 11407045341
 
-4-858902148
-2002054085731
+6-328606732
+2001928194731
 MainWindow.xaml;
 
 False
