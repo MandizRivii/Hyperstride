@@ -1,0 +1,42 @@
+O:\HyperStride\HyperStrideWPF\bin\Debug\net9.0-windows\HyperStrideWPF.exe
+O:\HyperStride\HyperStrideWPF\bin\Debug\net9.0-windows\HyperStrideWPF.deps.json
+O:\HyperStride\HyperStrideWPF\bin\Debug\net9.0-windows\HyperStrideWPF.runtimeconfig.json
+O:\HyperStride\HyperStrideWPF\bin\Debug\net9.0-windows\HyperStrideWPF.dll
+O:\HyperStride\HyperStrideWPF\bin\Debug\net9.0-windows\HyperStrideWPF.pdb
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\App.g.cs
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF_MarkupCompile.cache
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\MainWindow.baml
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF.g.resources
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF.GeneratedMSBuildEditorConfig.editorconfig
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF.AssemblyInfoInputs.cache
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF.AssemblyInfo.cs
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF.csproj.CoreCompileInputs.cache
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF.dll
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\refint\HyperStrideWPF.dll
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF.pdb
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\HyperStrideWPF.genruntimeconfig.cache
+O:\HyperStride\HyperStrideWPF\obj\Debug\net9.0-windows\ref\HyperStrideWPF.dll
+O:\Nowy folder\Hyperstride-main\bin\Debug\net9.0-windows\HyperStrideWPF.exe
+O:\Nowy folder\Hyperstride-main\bin\Debug\net9.0-windows\HyperStrideWPF.deps.json
+O:\Nowy folder\Hyperstride-main\bin\Debug\net9.0-windows\HyperStrideWPF.runtimeconfig.json
+O:\Nowy folder\Hyperstride-main\bin\Debug\net9.0-windows\HyperStrideWPF.dll
+O:\Nowy folder\Hyperstride-main\bin\Debug\net9.0-windows\HyperStrideWPF.pdb
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\MainWindow.baml
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\MainWindow.g.cs
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\App.g.cs
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF_MarkupCompile.cache
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF.g.resources
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF.GeneratedMSBuildEditorConfig.editorconfig
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF.AssemblyInfoInputs.cache
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF.AssemblyInfo.cs
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF.csproj.CoreCompileInputs.cache
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF.dll
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\refint\HyperStrideWPF.dll
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF.pdb
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF.genruntimeconfig.cache
+O:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\ref\HyperStrideWPF.dll
+o:\Nowy folder\Hyperstride-main\bin\Debug\net9.0-windows\Audio\soundtrack.wav
+o:\Nowy folder\Hyperstride-main\obj\Debug\net9.0-windows\HyperStrideWPF_Content.g.cs
+o:\Nowy folder\Hyperstride-main\bin\Debug\net9.0-windows\Audio\laser.wav
+o:\Nowy folder\Hyperstride-main\bin\Debug\net9.0-windows\Audio\reload.wav
