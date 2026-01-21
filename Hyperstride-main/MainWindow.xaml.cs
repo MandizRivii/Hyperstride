@@ -11,7 +11,7 @@ namespace HyperStrideWPF
     {
         private MainMenu menu;
         private GameManager game;
-        private MediaPlayer musicPlayer = new MediaPlayer(); // dodane
+        private MediaPlayer musicPlayer = new MediaPlayer();
 
         public MainWindow()
         {
@@ -61,3 +61,4 @@ private void PlayMusic()
 
     }
 }
+
